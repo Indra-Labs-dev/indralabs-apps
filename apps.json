@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "BrainVault",
+      "version": "1.0.0",
+      "platform": "Android"
+    },
+    {
+      "name": "Hackers",
+      "version": "1.0.0",
+      "platform": "Android"
+    }
+  ]
+}
